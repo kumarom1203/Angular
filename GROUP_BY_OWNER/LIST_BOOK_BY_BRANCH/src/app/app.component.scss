@@ -1,0 +1,16 @@
+.child{
+    padding-left: 50px
+}
+
+.parent {
+    padding-left: 25px
+}
+
+.button-group {
+    display: flex;
+    flex-direction: row;
+}
+
+.btn {
+    margin: 5px;
+}
